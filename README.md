@@ -1,1 +1,1 @@
-# SolidumSeguros
+# Projeto - Solidum Seguros
